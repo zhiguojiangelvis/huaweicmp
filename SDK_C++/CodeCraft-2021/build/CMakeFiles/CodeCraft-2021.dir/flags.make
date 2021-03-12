@@ -6,5 +6,5 @@ CXX_FLAGS =  -O3 -Wall -std=c++11
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/mnt/hgfs/huaweicmp/SDK_C++/CodeCraft-2021/lib 
+CXX_INCLUDES = -I/mnt/hgfs/huaweicmp/code/SDK_C++/CodeCraft-2021/lib 
 

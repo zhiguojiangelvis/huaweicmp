@@ -1,10 +1,9 @@
-#include "iostream"
-#include "./lib/test.h"
+#include <iostream>
+#include <string>
+#include <unordered_map>
+#include <vector>
+#include <time.h>
+#include <algorithm>
+#include <assert.h>
 using namespace std;
-int main()
-{
-                    int num;
-                   cin>>num;
-                   cout<<num;
-	   return 0;
-}
+

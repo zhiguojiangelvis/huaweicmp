@@ -6,11 +6,19 @@
 
 #IncludeRegexTransform: 
 
-/mnt/hgfs/huaweicmp/SDK_C++/CodeCraft-2021/./lib/test.h
-
-/mnt/hgfs/huaweicmp/SDK_C++/CodeCraft-2021/CodeCraft-2021.cpp
+/mnt/hgfs/huaweicmp/code/SDK_C++/CodeCraft-2021/CodeCraft-2021.cpp
 iostream
-/mnt/hgfs/huaweicmp/SDK_C++/CodeCraft-2021/iostream
-./lib/test.h
-/mnt/hgfs/huaweicmp/SDK_C++/CodeCraft-2021/./lib/test.h
+-
+string
+-
+unordered_map
+-
+vector
+-
+time.h
+-
+algorithm
+-
+assert.h
+-
 

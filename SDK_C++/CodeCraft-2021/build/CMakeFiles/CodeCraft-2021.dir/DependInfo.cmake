@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/mnt/hgfs/huaweicmp/SDK_C++/CodeCraft-2021/CodeCraft-2021.cpp" "/mnt/hgfs/huaweicmp/SDK_C++/CodeCraft-2021/build/CMakeFiles/CodeCraft-2021.dir/CodeCraft-2021.cpp.o"
+  "/mnt/hgfs/huaweicmp/code/SDK_C++/CodeCraft-2021/CodeCraft-2021.cpp" "/mnt/hgfs/huaweicmp/code/SDK_C++/CodeCraft-2021/build/CMakeFiles/CodeCraft-2021.dir/CodeCraft-2021.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
