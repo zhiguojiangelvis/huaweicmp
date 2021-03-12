@@ -6,10 +6,16 @@
 
 #IncludeRegexTransform: 
 
-/mnt/hgfs/huaweicmp/code/SDK_C++/CodeCraft-2021/CodeCraft-2021.cpp
-iostream
--
+/mnt/hgfs/huaweicmp/code/SDK_C++/CodeCraft-2021/./lib/dataStructure.h
 string
+-
+string.h
+-
+
+/mnt/hgfs/huaweicmp/code/SDK_C++/CodeCraft-2021/./lib/run.h
+dataStructure.h
+/mnt/hgfs/huaweicmp/code/SDK_C++/CodeCraft-2021/./lib/dataStructure.h
+iostream
 -
 unordered_map
 -
@@ -21,4 +27,8 @@ algorithm
 -
 assert.h
 -
+
+/mnt/hgfs/huaweicmp/code/SDK_C++/CodeCraft-2021/CodeCraft-2021.cpp
+./lib/run.h
+/mnt/hgfs/huaweicmp/code/SDK_C++/CodeCraft-2021/./lib/run.h
 

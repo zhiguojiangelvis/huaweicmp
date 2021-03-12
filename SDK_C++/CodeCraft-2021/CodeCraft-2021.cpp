@@ -1,9 +1,9 @@
-#include <iostream>
-#include <string>
-#include <unordered_map>
-#include <vector>
-#include <time.h>
-#include <algorithm>
-#include <assert.h>
+#include "./lib/run.h"
 using namespace std;
+const string filePath="../../../training-data/training-2.txt";
+int main(){
+    run *r=new run(filePath);
+    delete r;
+    return 0;
+}
 
